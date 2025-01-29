@@ -14,8 +14,10 @@ This repository serves as my personal learning journal where I document my daily
 
 ### January 28, 2025
 #### What I Learned Today
-- Brief description of what you learned
-- Key concepts covered
+- Today I decided to create this repository where I will be storing all the works I did everyday.
+- I was working on a process scheduling algorithms(using React) and I had designed everything in front end but now I wanted to create a backend for it so I created a backend in Spring.
+- I learnt how to use beans in Spring which are basically a collection of classes created as components in Spring.
+- I learnt how to create EC2 instance in AWS.
 
 #### Resources Used
 - [Resource Name](link-to-resource)
