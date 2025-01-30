@@ -12,56 +12,51 @@ This repository serves as my personal learning journal where I document my daily
 
 ## Daily Logs
 
+### January 29, 2025
+#### What I Learned Today
+- Learnt Core Concepts of Binary Search Tree. 
+- Created methods like insert, contains for BST both using while loop and recursive method.
+- Learnt Java Concepts on Inner Class and Abstract Classes.
+- Learnt Linear Algebra concepts on homogeneous and non-homogeneous equations.
+
+#### Tomorrow's Goals
+- Do Learn AVL Tree Concepts
+- Continue working on deploying spring server on AWS.
+
+#### Resources Used
+- Geeks for Geeks
+- Youtube Telusko
+- Udemy paid course
+
+---
 ### January 28, 2025
 #### What I Learned Today
-- Today I decided to create this repository where I will be storing all the works I did everyday.
-- I was working on a process scheduling algorithms(using React) and I had designed everything in front end but now I wanted to create a backend for it so I created a backend in Spring.
+- Today I decided to create this repository where I will be storing all the works I did every day.
+- I was working on a process scheduling algorithms(using React) and I had designed everything in front end now I wanted to create a backend for it, so I created a backend in Spring.
 - I learnt how to use beans in Spring which are basically a collection of classes created as components in Spring.
 - How to create EC2 instance in AWS.
 - Few concepts on Binary Tree and Binary Search Tree.
 
 #### Resources Used
-- [Resource Name](link-to-resource)
-- Additional materials
-
-#### Challenges & Solutions
-- What challenges did you face?
-- How did you overcome them?
+- (Creating EC2 instance in AWS) https://www.youtube.com/watch?v=-FKQwXtrSSQ 
+- Geeks for Geeks
+- Youtube Telusko
 
 #### Tomorrow's Goals
-- What you plan to learn next
-- Areas to focus on
+- Learn BST
+- Learn Linear Algebra Concepts
+- Learn OOPs left concepts
 
 ---
-
-### January 27, 2025
-#### What I Learned Today
-- Add your learnings here
-- Include code snippets if applicable
-```python
-# Example code
-def hello_world():
-    print("Hello, World!")
-```
-
-#### Resources Used
-- List your resources here
-
-#### Challenges & Solutions
-- Document challenges here
-
-#### Tomorrow's Goals
-- Set goals for tomorrow
-
 ## Quick Stats
-- 📅 Days of Learning: 2
+- 📅 Days of Learning: 3
 - 🎯 Topics Covered: 
-  - Topic 1
-  - Topic 2
-- 📚 Resources Used: 0
-- 💡 Key Achievements:
-  - Achievement 1
-  - Achievement 2
+  - BST
+  - AWS
+  - OOPs
+  - Spring
+- 📚 Resources Used: 4
+
 
 ---
-*Last Updated: January 28, 2025*
+*Last Updated: January 30, 2025*
